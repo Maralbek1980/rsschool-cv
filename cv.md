@@ -1,8 +1,6 @@
-rsschool-cv
-===========
+## rsschool-cv
 ---
-Maralbek Yessengaliyev
-----------------------
+## Maralbek Yessengaliyev
 ___
 #### Contacts:
 + Location: Uralsk, Qazaqstan
