@@ -27,3 +27,13 @@ ___
 - Bonatti SPA
 - Capital PromStroy LLP
 ***
+#### Education:
+- Eurasian Economic Insititute
+- Professional Accountant Course
+- Audit Course BDO Training Center
+---
+#### Education:
++ Qazaq
++ English (IELTS 6.0)
++ Italian 
++ Russian
